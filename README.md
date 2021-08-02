@@ -3,7 +3,7 @@
 
 ---
 
-This repo is used for reproduction of issue: https://github.com/typeorm/typeorm/issues/.
+This repo is used for reproduction of issue: https://github.com/typeorm/typeorm/issues/8007.
 
 ---
 
